@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankityadav456&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankityadav456&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/ankityadav456/mern-food-ordering)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ankityadav456&icon=8&color=7)](https://visitcount.itsvg.in)
