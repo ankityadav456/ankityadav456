@@ -71,8 +71,18 @@ const ankit = {
 
 ## 🚀 Featured Project
 
+### 🍔 MERN Food Ordering App
+
 <a href="https://github.com/ankityadav456/mern-food-ordering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankityadav456&repo=mern-food-ordering&theme=merko&hide_border=true" />
+  <img src="https://github.com/user-attachments/assets/a0adb4c0-2eef-4521-87fb-3d8999e9a223" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/89d642a8-8778-4d5d-abc8-dec2e7c5d06f" width="49%"/>
+</a>
+<a href="https://github.com/ankityadav456/mern-food-ordering">
+  <img src="https://github.com/user-attachments/assets/07d345f9-b84c-4f6e-b45c-ea8b92b93479" width="100%"/>
+</a>
+
+<a href="https://github.com/ankityadav456/mern-food-ordering">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankityadav456&repo=mern-food-ordering&theme=merko&hide_border=true"/>
 </a>
 
 ---
